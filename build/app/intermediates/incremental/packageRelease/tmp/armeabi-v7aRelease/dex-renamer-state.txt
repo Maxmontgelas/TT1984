@@ -1,0 +1,4 @@
+#Mon Apr 19 07:17:13 BST 2021
+base.0=/Users/macbook/development/covid_1984/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
